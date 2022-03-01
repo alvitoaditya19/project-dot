@@ -1,0 +1,4 @@
+Pattern yang saya gunakan pada project ini adalah MVC (Model, View, Controller)
+Alasan saya menggunakan pattern MVC adalah karena pattern ini banyak digunakan oleh para programmer dan sudah saya pelajari sebelumnya di beberapa bahasa pemrograman seperti Flutter atau Dart dan Express JS, yang penggunannya cenderung mudah bagi saya. Selain itu, pattern atau arsitektur ini memisahkan antara User Interface atau tampilaan website dengan logika bisnis yang digunakan untuk mengakses data,Sehingga hal ini akan meningkatkan pemeliharan, pengembangan dan fleksibilitas website. Kita dapat melakukkan penggunaan kembali komponen atau reusable komponen pada beberapa bagian dan merubah tampilan website sesuai keinginan kita, sedangkan model logika data atau logika bisnis sebagai controller tetap sama, sehingga hal ini akan mempermudah programmer untuk menyusun website yang lebih kompleks, lebih baik dan menghemat baris program.
+
+
